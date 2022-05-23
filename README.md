@@ -1,2 +1,3 @@
-# csbase
-cs base that I never got to finish, developed slowly over 2 years.
+# Fully internal base for CS:GO
+Never got to finish this project as got bored.
+Developed slowly over 2-3 years.
