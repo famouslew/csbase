@@ -3,10 +3,10 @@
 [![CS:GO](https://img.shields.io/badge/game-CS%3AGO-yellow.svg?style=plastic)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) 
 [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 [![x86](https://img.shields.io/badge/arch-x86-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86) 
-[![License](https://img.shields.io/github/license/danielkrupinski/famous.svg?style=plastic)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/danielkrupinski/famous.svg?style=plastic)](https://github.com/danielkrupinski/famous/issues)
-<br>![Windows](https://github.com/danielkrupinski/famous/workflows/Windows/badge.svg?branch=master&event=push)
-![Linux](https://github.com/danielkrupinski/famous/workflows/Linux/badge.svg?branch=master&event=push)
+[![License](https://img.shields.io/github/license/famouslew/famous.svg?style=plastic)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/famouslew/famous.svg?style=plastic)](https://github.com/famouslew/famous/issues)
+<br>![Windows](https://github.com/famouslew/famous/workflows/Windows/badge.svg?branch=master&event=push)
+![Linux](https://github.com/famouslew/famous/workflows/Linux/badge.svg?branch=master&event=push)
 
 Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive** game. Designed as an internal cheat - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) loadable into game process. Compatible with the Steam version of the game. Available for Windows and Linux systems.
 
@@ -310,5 +310,5 @@ Hooking implementation files are located in [Hooks](https://github.com/famouslew
 This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](https://github.com/famouslew/famous/blob/master/LICENSE) file for details.
 
 ## See also
-*   [Anubis](https://github.com/danielkrupinski/Anubis) - free and open source cheat for CS:GO
-*   [GOESP](https://github.com/danielkrupinski/GOESP) - free and open source cross-platform streamproof ESP hack for Counter-Strike: Global Offensive, written in modern C++
+*   [Anubis](https://github.com/famouslew/Anubis) - free and open source cheat for CS:GO
+*   [GOESP](https://github.com/famouslew/GOESP) - free and open source cross-platform streamproof ESP hack for Counter-Strike: Global Offensive, written in modern C++
